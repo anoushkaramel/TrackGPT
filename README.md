@@ -1,2 +1,2 @@
 # TrackGPT
-A musoc recommendation partner, supporting mood, time, length of playlist :)
+A music recommendation partner, supporting mood, time, length of playlist :)
